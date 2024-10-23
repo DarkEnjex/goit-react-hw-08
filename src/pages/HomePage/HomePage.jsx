@@ -1,7 +1,10 @@
-import React from "react";
-
+import s from "./HomePage.module.css";
 const HomePage = () => {
-  return <div>HomePage</div>;
+  return (
+    <div>
+      <h2 className={s.header}>Home Page</h2>
+    </div>
+  );
 };
 
 export default HomePage;

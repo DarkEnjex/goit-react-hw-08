@@ -11,3 +11,15 @@
 -- git remote add origin https://github.com/DarkEnjex/goit-react-hw-08.git
 -- git branch -M main
 -- git push -u origin main
+
+lenovo1@mail.com
+lenovo1
+
+Maks15@mail.com
+123456Maks
+
+Olena32@mail.com
+3265Olena
+
+Ivan45@mail.com
+Ivan456
