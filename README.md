@@ -21,3 +21,12 @@
 -- git branch -M main
 
 -- git push -u origin main
+
+Maks15@mail.com
+123456Maks
+
+Olena32@mail.com
+3265Olena
+
+Ivan45@mail.com
+Ivan456
